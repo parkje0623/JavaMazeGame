@@ -12,3 +12,4 @@ Development Tool: **IntelliJ**
 3) Run the application then the maze and list of commands should be displayed in terminal.  
 
 ## Example
+![Simple Example](MazeGameDemo.gif)
